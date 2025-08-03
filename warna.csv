@@ -1,142 +1,142 @@
-,warna,kode_hex_rgb,kode_desimal_rgb,warna_dasar
-1,Merah  Indian,CD 5C 5C,205 92 92,merah
-2,Koral  terang,F0 80 80,240 128 128,merah
-3,Salmon,FA 80 72,250 128 114,merah
-4,Salmon  gelap,E9 96 7A,233 150 122,merah
-5,Salmon  terang,FF A0 7A,255 160 122,merah
-6,Krimson,DC 14 3C,220 20 60,merah
-7,Merah,FF 00 00,255 0 0,merah
-8,Merah  Bata,B2 22 22,178 34 34,merah
-9,Merah  tua,8B 00 00,139 0 0,merah
-11,Merah  muda,FF C0 CB,255 192 203,merah jambu
-12,Merah  muda terang,FF B6 C1,255 182 193,merah jambu
-13,Merah  muda panas,FF 69 B4,255 105 180,merah jambu
-14,Merah  muda dalam,FF 14 93,255 20 147,merah jambu
-15,MediumVioletRed,C7 15 85,199 21 133,merah jambu
-16,PaleVioletRed,DB 70 93,219 112 147,merah jambu
-18,Salmon  terang,FF A0 7A,255 160 122,oranye
-19,Koral,FF 7F 50,255 127 80,oranye
-20,Tomat,FF 63 47,255 99 71,oranye
-21,Merah  oranye,FF 45 00,255 69 0,oranye
-22,Jingga  tua,FF 8C 00,255 140 0,oranye
-23,Jingga,FF A5 00,255 165 0,oranye
-25,Emas,FF D7 00,255 215 0,kuning
-26,Kuning,FF FF 00,255 255 0,kuning
-27,Kuning  terang,FF FF E0,255 255 224,kuning
-28,LemonChiffon,FF FA CD,255 250 205,kuning
-29,LightGoldenrodYellow,FA FA D2,250 250 210,kuning
-30,PapayaWhip,FF EF D5,255 239 213,kuning
-31,Moccasin,FF E4 B5,255 228 181,kuning
-32,PeachPuff,FF DA B9,255 218 185,kuning
-33,PaleGoldenrod,EE E8 AA,238 232 170,kuning
-34,Khaki,F0 E6 8C,240 230 140,kuning
-35,DarkKhaki,BD B7 6B,189 183 107,kuning
-37,Lavender,E6 E6 FA,230 230 250,ungu
-38,Thistle,D8 BF D8,216 191 216,ungu
-39,Plum,DD A0 DD,221 160 221,ungu
-40,Violet,EE 82 EE,238 130 238,ungu
-41,Orchid,DA 70 D6,218 112 214,ungu
-42,Fuchsia,FF 00 FF,255 0 255,ungu
-43,Magenta,FF 00 FF,255 0 255,ungu
-44,MediumOrchid,BA 55 D3,186 85 211,ungu
-45,MediumPurple,93 70 DB,147 112 219,ungu
-46,BlueViolet,8A 2B E2,138 43 226,ungu
-47,DarkViolet,94 00 D3,148 0 211,ungu
-48,DarkOrchid,99 32 CC,153 50 204,ungu
-49,DarkMagenta,8B 00 8B,139 0 139,ungu
-50,Ungu,80 00 80,128 0 128,ungu
-51,Indigo,4B 00 82,75 0 130,ungu
-52,SlateBlue,6A 5A CD,106 90 205,ungu
-53,DarkSlateBlue,48 3D 8B,72 61 139,ungu
-55,GreenYellow,AD FF 2F,173 255 47,hijau
-56,Chartreuse,7F FF 00,127 255 0,hijau
-57,LawnGreen,7C FC 00,124 252 0,hijau
-58,Lime,00 FF 00,0 255 0,hijau
-59,LimeGreen,32 CD 32,50 205 50,hijau
-60,PaleGreen,98 FB 98,152 251 152,hijau
-61,LightGreen,90 EE 90,144 238 144,hijau
-62,MediumSpringGreen,00 FA 9A,0 250 154,hijau
-63,SpringGreen,00 FF 7F,0 255 127,hijau
-64,MediumSeaGreen,3C B3 71,60 179 113,hijau
-65,SeaGreen,2E 8B 57,46 139 87,hijau
-66,ForestGreen,22 8B 22,34 139 34,hijau
-67,Hijau,00 80 00,0 128 0,hijau
-68,DarkGreen,00 64 00,0 100 0,hijau
-69,YellowGreen,9A CD 32,154 205 50,hijau
-70,OliveDrab,6B 8E 23,107 142 35,hijau
-71,Olive,80 80 00,128 128 0,hijau
-72,DarkOliveGreen,55 6B 2F,85 107 47,hijau
-73,MediumAquamarine,66 CD AA,102 205 170,hijau
-74,DarkSeaGreen,8F BC 8F,143 188 143,hijau
-75,LightSeaGreen,20 B2 AA,32 178 170,hijau
-76,DarkCyan,00 8B 8B,0 139 139,hijau
-77,Teal,00 80 80,0 128 128,hijau
-79,Aqua,00 FF FF,0 255 255,biru
-80,Cyan,00 FF FF,0 255 255,biru
-81,LightCyan,E0 FF FF,224 255 255,biru
-82,PaleTurquoise,AF EE EE,175 238 238,biru
-83,Aquamarine,7F FF D4,127 255 212,biru
-84,Turquoise,40 E0 D0,64 224 208,biru
-85,MediumTurquoise,48 D1 CC,72 209 204,biru
-86,DarkTurquoise,00 CE D1,0 206 209,biru
-87,CadetBlue,5F 9E A0,95 158 160,biru
-88,SteelBlue,46 82 B4,70 130 180,biru
-89,LightSteelBlue,B0 C4 DE,176 196 222,biru
-90,PowderBlue,B0 E0 E6,176 224 230,biru
-91,LightBlue,AD D8 E6,173 216 230,biru
-92,SkyBlue,87 CE EB,135 206 235,biru
-93,LightSkyBlue,87 CE FA,135 206 250,biru
-94,DeepSkyBlue,00 BF FF,0 191 255,biru
-95,DodgerBlue,1E 90 FF,30 144 255,biru
-96,CornflowerBlue,64 95 ED,100 149 237,biru
-97,MediumSlateBlue,7B 68 EE,123 104 238,biru
-98,RoyalBlue,41 69 E1,65 105 225,biru
-99,Biru,00 00 FF,0 0 255,biru
-100,MediumBlue,00 00 CD,0 0 205,biru
-101,DarkBlue,00 00 8B,0 0 139,biru
-102,Navy,00 00 80,0 0 128,biru
-103,MidnightBlue,19 19 70,25 25 112,biru
-105,Cornsilk,FF F8 DC,255 248 220,coklat
-106,BlanchedAlmond,FF EB CD,255 235 205,coklat
-107,Bisque,FF E4 C4,255 228 196,coklat
-108,NavajoWhite,FF DE AD,255 222 173,coklat
-109,Wheat,F5 DE B3,245 222 179,coklat
-110,BurlyWood,DE B8 87,222 184 135,coklat
-111,Tan,D2 B4 8C,210 180 140,coklat
-112,RosyBrown,BC 8F 8F,188 143 143,coklat
-113,SandyBrown,F4 A4 60,244 164 96,coklat
-114,Goldenrod,DA A5 20,218 165 32,coklat
-115,DarkGoldenrod,B8 86 0B,184 134 11,coklat
-116,Peru,CD 85 3F,205 133 63,coklat
-117,Chocolate,D2 69 1E,210 105 30,coklat
-118,SaddleBrown,8B 45 13,139 69 19,coklat
-119,Sienna,A0 52 2D,160 82 45,coklat
-120,Brown,A5 2A 2A,165 42 42,coklat
-121,Maroon,80 00 00,128 0 0,coklat
-123,Putih,FF FF FF,255 255 255,putih
-124,Snow,FF FA FA,255 250 250,putih
-125,Honeydew,F0 FF F0,240 255 240,putih
-126,MintCream,F5 FF FA,245 255 250,putih
-127,Azure,F0 FF FF,240 255 255,putih
-128,AliceBlue,F0 F8 FF,240 248 255,putih
-129,GhostWhite,F8 F8 FF,248 248 255,putih
-130,WhiteSmoke,F5 F5 F5,245 245 245,putih
-131,Seashell,FF F5 EE,255 245 238,putih
-132,Beige,F5 F5 DC,245 245 220,putih
-133,OldLace,FD F5 E6,253 245 230,putih
-134,FloralWhite,FF FA F0,255 250 240,putih
-135,Ivory,FF FF F0,255 255 240,putih
-136,AntiqueWhite,FA EB D7,250 235 215,putih
-137,Linen,FA F0 E6,250 240 230,putih
-138,LavenderBlush,FF F0 F5,255 240 245,putih
-139,MistyRose,FF E4 E1,255 228 225,putih
-141,Gainsboro,DC DC DC,220 220 220,abu-abu
-142,Abu-abu  Muda,D3 D3 D3,211 211 211,abu-abu
-143,Silver,C0 C0 C0,192 192 192,abu-abu
-144,Abu-abu  Tua,A9 A9 A9,169 169 169,abu-abu
-145,Abu-abu,80 80 80,128 128 128,abu-abu
-146,DimGray,69 69 69,105 105 105,abu-abu
-147,LightSlateGray,77 88 99,119 136 153,abu-abu
-148,SlateGray,70 80 90,112 128 144,abu-abu
-149,DarkSlateGray,2F 4F 4F,47 79 79,abu-abu
-150,Hitam,00 00 00,0 0 0,hitam
+nama,hex,r,g,b,warna_dasar
+Merah  Indian,#CD5C5C,205,92,92,merah
+Koral  terang,#F08080,240,128,128,merah
+Salmon,#FA8072,250,128,114,merah
+Salmon  gelap,#E9967A,233,150,122,merah
+Salmon  terang,#FFA07A,255,160,122,merah
+Krimson,#DC143C,220,20,60,merah
+Merah,#FF0000,255,0,0,merah
+Merah  Bata,#B22222,178,34,34,merah
+Merah  tua,#8B0000,139,0,0,merah
+Merah  muda,#FFC0CB,255,192,203,merah jambu
+Merah  muda terang,#FFB6C1,255,182,193,merah jambu
+Merah  muda panas,#FF69B4,255,105,180,merah jambu
+Merah  muda dalam,#FF1493,255,20,147,merah jambu
+MediumVioletRed,#C71585,199,21,133,merah jambu
+PaleVioletRed,#DB7093,219,112,147,merah jambu
+Salmon  terang,#FFA07A,255,160,122,oranye
+Koral,#FF7F50,255,127,80,oranye
+Tomat,#FF6347,255,99,71,oranye
+Merah  oranye,#FF4500,255,69,0,oranye
+Jingga  tua,#FF8C00,255,140,0,oranye
+Jingga,#FFA500,255,165,0,oranye
+Emas,#FFD700,255,215,0,kuning
+Kuning,#FFFF00,255,255,0,kuning
+Kuning  terang,#FFFFE0,255,255,224,kuning
+LemonChiffon,#FFFACD,255,250,205,kuning
+LightGoldenrodYellow,#FAFAD2,250,250,210,kuning
+PapayaWhip,#FFEFD5,255,239,213,kuning
+Moccasin,#FFE4B5,255,228,181,kuning
+PeachPuff,#FFDAB9,255,218,185,kuning
+PaleGoldenrod,#EEE8AA,238,232,170,kuning
+Khaki,#F0E68C,240,230,140,kuning
+DarkKhaki,#BDB76B,189,183,107,kuning
+Lavender,#E6E6FA,230,230,250,ungu
+Thistle,#D8BFD8,216,191,216,ungu
+Plum,#DDA0DD,221,160,221,ungu
+Violet,#EE82EE,238,130,238,ungu
+Orchid,#DA70D6,218,112,214,ungu
+Fuchsia,#FF00FF,255,0,255,ungu
+Magenta,#FF00FF,255,0,255,ungu
+MediumOrchid,#BA55D3,186,85,211,ungu
+MediumPurple,#9370DB,147,112,219,ungu
+BlueViolet,#8A2BE2,138,43,226,ungu
+DarkViolet,#9400D3,148,0,211,ungu
+DarkOrchid,#9932CC,153,50,204,ungu
+DarkMagenta,#8B008B,139,0,139,ungu
+Ungu,#800080,128,0,128,ungu
+Indigo,#4B0082,75,0,130,ungu
+SlateBlue,#6A5ACD,106,90,205,ungu
+DarkSlateBlue,#483D8B,72,61,139,ungu
+GreenYellow,#ADFF2F,173,255,47,hijau
+Chartreuse,#7FFF00,127,255,0,hijau
+LawnGreen,#7CFC00,124,252,0,hijau
+Lime,#00FF00,0,255,0,hijau
+LimeGreen,#32CD32,50,205,50,hijau
+PaleGreen,#98FB98,152,251,152,hijau
+LightGreen,#90EE90,144,238,144,hijau
+MediumSpringGreen,#00FA9A,0,250,154,hijau
+SpringGreen,#00FF7F,0,255,127,hijau
+MediumSeaGreen,#3CB371,60,179,113,hijau
+SeaGreen,#2E8B57,46,139,87,hijau
+ForestGreen,#228B22,34,139,34,hijau
+Hijau,#008000,0,128,0,hijau
+DarkGreen,#006400,0,100,0,hijau
+YellowGreen,#9ACD32,154,205,50,hijau
+OliveDrab,#6B8E23,107,142,35,hijau
+Olive,#808000,128,128,0,hijau
+DarkOliveGreen,#556B2F,85,107,47,hijau
+MediumAquamarine,#66CDAA,102,205,170,hijau
+DarkSeaGreen,#8FBC8F,143,188,143,hijau
+LightSeaGreen,#20B2AA,32,178,170,hijau
+DarkCyan,#008B8B,0,139,139,hijau
+Teal,#008080,0,128,128,hijau
+Aqua,#00FFFF,0,255,255,biru
+Cyan,#00FFFF,0,255,255,biru
+LightCyan,#E0FFFF,224,255,255,biru
+PaleTurquoise,#AFEEEE,175,238,238,biru
+Aquamarine,#7FFFD4,127,255,212,biru
+Turquoise,#40E0D0,64,224,208,biru
+MediumTurquoise,#48D1CC,72,209,204,biru
+DarkTurquoise,#00CED1,0,206,209,biru
+CadetBlue,#5F9EA0,95,158,160,biru
+SteelBlue,#4682B4,70,130,180,biru
+LightSteelBlue,#B0C4DE,176,196,222,biru
+PowderBlue,#B0E0E6,176,224,230,biru
+LightBlue,#ADD8E6,173,216,230,biru
+SkyBlue,#87CEEB,135,206,235,biru
+LightSkyBlue,#87CEFA,135,206,250,biru
+DeepSkyBlue,#00BFFF,0,191,255,biru
+DodgerBlue,#1E90FF,30,144,255,biru
+CornflowerBlue,#6495ED,100,149,237,biru
+MediumSlateBlue,#7B68EE,123,104,238,biru
+RoyalBlue,#4169E1,65,105,225,biru
+Biru,#0000FF,0,0,255,biru
+MediumBlue,#0000CD,0,0,205,biru
+DarkBlue,#00008B,0,0,139,biru
+Navy,#000080,0,0,128,biru
+MidnightBlue,#191970,25,25,112,biru
+Cornsilk,#FFF8DC,255,248,220,coklat
+BlanchedAlmond,#FFEBCD,255,235,205,coklat
+Bisque,#FFE4C4,255,228,196,coklat
+NavajoWhite,#FFDEAD,255,222,173,coklat
+Wheat,#F5DEB3,245,222,179,coklat
+BurlyWood,#DEB887,222,184,135,coklat
+Tan,#D2B48C,210,180,140,coklat
+RosyBrown,#BC8F8F,188,143,143,coklat
+SandyBrown,#F4A460,244,164,96,coklat
+Goldenrod,#DAA520,218,165,32,coklat
+DarkGoldenrod,#B8860B,184,134,11,coklat
+Peru,#CD853F,205,133,63,coklat
+Chocolate,#D2691E,210,105,30,coklat
+SaddleBrown,#8B4513,139,69,19,coklat
+Sienna,#A0522D,160,82,45,coklat
+Brown,#A52A2A,165,42,42,coklat
+Maroon,#800000,128,0,0,coklat
+Putih,#FFFFFF,255,255,255,putih
+Snow,#FFFAFA,255,250,250,putih
+Honeydew,#F0FFF0,240,255,240,putih
+MintCream,#F5FFFA,245,255,250,putih
+Azure,#F0FFFF,240,255,255,putih
+AliceBlue,#F0F8FF,240,248,255,putih
+GhostWhite,#F8F8FF,248,248,255,putih
+WhiteSmoke,#F5F5F5,245,245,245,putih
+Seashell,#FFF5EE,255,245,238,putih
+Beige,#F5F5DC,245,245,220,putih
+OldLace,#FDF5E6,253,245,230,putih
+FloralWhite,#FFFAF0,255,250,240,putih
+Ivory,#FFFFF0,255,255,240,putih
+AntiqueWhite,#FAEBD7,250,235,215,putih
+Linen,#FAF0E6,250,240,230,putih
+LavenderBlush,#FFF0F5,255,240,245,putih
+MistyRose,#FFE4E1,255,228,225,putih
+Gainsboro,#DCDCDC,220,220,220,abu-abu
+Abu-abu  Muda,#D3D3D3,211,211,211,abu-abu
+Silver,#C0C0C0,192,192,192,abu-abu
+Abu-abu  Tua,#A9A9A9,169,169,169,abu-abu
+Abu-abu,#808080,128,128,128,abu-abu
+DimGray,#696969,105,105,105,abu-abu
+LightSlateGray,#778899,119,136,153,abu-abu
+SlateGray,#708090,112,128,144,abu-abu
+DarkSlateGray,#2F4F4F,47,79,79,abu-abu
+Hitam,#000000,0,0,0,hitam
